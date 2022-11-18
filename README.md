@@ -3,7 +3,7 @@
 - rss2Ebook - A web based RSS Reader for PC / E-Book / Ink Devices such as Amazon Kindle JdReader
 - rss2Ebook - RSS create ebook 并且自动发送到电子设备 阅读器，支持手机，电脑和 Kindle 等电子墨水屏浏览器
 
-- Home Page: [reabble.com](https://rss2ebook.com)
+- Home Page: [rss2ebook.com](https://rss2ebook.com)
 
 
 
