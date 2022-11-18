@@ -25,5 +25,5 @@
 欢迎使用中英文提交 Bug 报告或建议。
 
 
-- [今天看啥]([http://www.jintiankansha.me/account/signup?invite_code=GB4FISKPPA](http://www.jintiankansha.me/account/signup?invite_code=NB2XUNKZPE)): 把微信公众号、豆瓣、简书、知乎专栏、微博、掘金、微博搜索、Twitter等转成RSS。
+- [今天看啥](http://www.jintiankansha.me/account/signup?invite_code=NB2XUNKZPE): 把微信公众号、豆瓣、简书、知乎专栏、微博、掘金、微博搜索、Twitter等转成RSS。
 - [WeRss](https://werss.app/): 微信公众号转RSS。
